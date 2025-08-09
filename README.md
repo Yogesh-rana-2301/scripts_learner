@@ -292,6 +292,7 @@ at 12:09 PM
 ctrl+D
 ```
 atq to see all the scheduled jobs
+
 atrm to remove the scheduled job
 ### Using crontab
 ```bash
