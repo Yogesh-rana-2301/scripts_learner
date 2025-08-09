@@ -293,7 +293,7 @@ ctrl+D
 ```
 atq to see all the scheduled jobs
 
-atrm to remove the scheduled job
+atrm <id> to remove the scheduled job
 ### Using crontab
 ```bash
 crontab -e
