@@ -288,8 +288,11 @@ nohup ./script.sh &
 ### Using at
 ```bash
 at 12:09 PM
-<your_command>
+    <your_command>
+ctrl+D
 ```
+atq to see all the scheduled jobs
+atrm to remove the scheduled job
 ### Using crontab
 ```bash
 crontab -e
