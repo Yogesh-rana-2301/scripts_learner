@@ -1,5 +1,5 @@
-# Shell Scripting Learner
-
+# Shell Scripting Learner (Preferably bash)
+kindly use Bash v4.0 not v3.2
 
 ---
 
