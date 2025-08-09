@@ -296,7 +296,8 @@ atq to see all the scheduled jobs
 atrm <id> to remove the scheduled job
 ### Using crontab
 ```bash
-crontab -e
+To check the existing jobs - crontab -l
+To add new job - crontab -e
 * * * * * cd /home/user && ./script.sh
 ```
 
