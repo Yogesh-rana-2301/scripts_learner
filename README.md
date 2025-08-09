@@ -1,7 +1,5 @@
 # Shell Scripting Crash Course
 
-This README.md is a comprehensive guide based on the **"Shell Scripting Crash Course"** PDF. It covers all topics from the document, including explanations, code examples, and key concepts. The content is organized by sections for easy navigation, preserving the original information without unnecessary summarization.
-
 ---
 
 ## Table of Contents
